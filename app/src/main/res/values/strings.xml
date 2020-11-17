@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">AlertDialog</string>
+    <string name="close_app">Close app</string>
+    <string name="dialog_message">AlerDialog</string>
+    <string name="dialog_title">GBAndroidBlogs</string>
+    <string name="success">Success</string>
+    <string name="warning">Warning</string>
+    <string name="error">Error</string>
+
+    <string name="success_title">Success Title</string>
+    <string name="warning_title">Warning Title</string>
+    <string name="error_title">Error Title</string>
+    <string name="dummy_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    <string name="okay">Okay</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+</resources>
+
